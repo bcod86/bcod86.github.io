@@ -1,0 +1,30 @@
+h1 {
+    color: rgb(15, 22, 24);
+    font-weight: bold;
+}
+.container{
+    color: rgb(161, 161, 158);
+    font-family: 'Courier New', Courier, monospace;
+}
+#lead{
+    color: brown;
+}
+img {
+    height: 280px;
+    border-style: dashed;
+    box-shadow: 50px;
+    margin: right;
+}
+li{
+    font-weight: bold;
+}
+body{
+    background-color: rgb(14, 12, 12);
+}
+.carouselExampleControls{
+    height: 300px;
+    width: 800px;
+}
+.jumbotron-fluid{
+    height: 200px;
+}
